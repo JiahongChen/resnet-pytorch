@@ -1,5 +1,5 @@
 # ResNet Pytorch implementation for MNIST classification
-This repo replicates the ResNet on MNIST/FashionMNIST dataset, using PyTorch torchvision model. The torchvision model is reused by spliting the resnet into feature extractor and classifier. And the training is conducted with/without the pre-trained model.
+This repo replicates the ResNet on MNIST/FashionMNIST dataset, using PyTorch torchvision model. The torchvision model is reused by splitting the ResNet into a feature extractor and a classifier. And the training is conducted with/without the pre-trained model.
 
 The details of the implementation can be found in the [notebook](https://github.com/JiahongChen/resnet-pytorch/blob/master/ResNet_MNIST_Pytorch.ipynb). This repo also provides an test on FashionMNIST dataset.
 
