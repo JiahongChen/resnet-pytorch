@@ -1,7 +1,7 @@
 # ResNet Pytorch implementation for MNIST classification
 This repo replicates the ResNet on MNIST classification, using PyTorch model.
 
-The details of the implementation can be found in the notebook. This repo also provides an test on FashionMNIST dataset.
+The details of the implementation can be found in the [notebook](https://github.com/JiahongChen/resnet-pytorch/blob/master/ResNet_MNIST_Pytorch.ipynb). This repo also provides an test on FashionMNIST dataset.
 
 # Citation
  
